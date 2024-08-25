@@ -1,0 +1,70 @@
+Color:
+  WHITE: "ebdf8d53bdb932c223c627bbb8c1e0c5e351a616cd8056929c66e6dce44433db"
+  LIGHT_GRAY: "5a5fc7635296ca183fd30b0fb5f4c18cfc216768f0fbebb865e0211ab43b7b"
+  GRAY: "6536ad978e1ce5050f43b7a6b3859eb49406b4f1043802a711cdc80c090c35d"
+  BLACK: "a9ab1fdcbe878d1e55bdd43cebc5e43836a6da69541f4a233fe88f1305668"
+  BROWN: "8351e505989838e27287e7afbc7f97e796cab5f3598a76160c131c940d0c5"
+  RED: "486b44506278d7111bc8e5f3cef9d07dbec18fc96df9b3ef4aa7e3e6bcb2"
+  ORANGE: "a37a35522f67b2af92345592846b702b9afb9d7c8dbad5ea150673c9e44de3"
+  YELLOW: "a254aacbf623175ff98df7ae366e0b89e91713441752f3cdf965f038b174b5"
+  LIME: "a9909a9779b946b9787442fa483af4de4b2f19fd40dc2370f7a9b8f521f21ddc"
+  GREEN: "28a127f1cfd79986e7bd95d92de4f4f68040e4f899f81b1f8f3ca15b64f50f3"
+  CYAN: "df70fab3246fe027ce0bba885a73c6e82d8ff8f358231e8461f956560cfa58f"
+  LIGHT_BLUE: "a3c153c391c34e2d328a60839e683a9f82ad3048299d8bc6a39e6f915cc5a"
+  BLUE: "8224b2c7391eb5bfcb278431d5c827cb26349526c7bc535b1e95f6df9f3fdf3"
+  PURPLE: "5eb65bbe744945841e9234a33b5ce5cc236f6a2fc93a1a3ae42df77c9084df1e"
+  MAGENTA: "36575fcccadae87c0842f53de5e0ffa75851696866d81e1b72828348db5256"
+  PINK: "bddafdcb1a8df426229d7879b1e4a336fc9ab3bdc146bb4ed3be4bbf7b5b835"
+Skins:
+  Lucy-Axolotl:
+    Name: "&b粉紅色六角恐龍造型"
+    Url: "debf2b113f4a81370a1cf9d2504e8756b66deef79e9433187da774b96c9f35ba"
+    Price: 10000
+  Wild-Axolotl:
+    Name: "&b棕色六角恐龍造型"
+    Url: "5461c4f2cb1eda8e14cd59efb0bf89ea2076f54a08b8b6d0db0bd0797d99bee8"
+    Price: 10000
+  Gold-Axolotl:
+    Name: "&b金色六角恐龍造型"
+    Url: "3a6534c32ab856028558478115d904d52f5f154d80ecb903b866b19099a25e46"
+    Price: 10000
+  Cyan-Axolotl:
+    Name: "&b青色六角恐龍造型"
+    Url: "1e8c70e6a56161ecdc6b75674070fb308714a2b2b70e1e6d76bc920ce6ce7de6"
+    Price: 10000
+  Blue-Axolotl:
+    Name: "&b藍色六角恐龍造型"
+    Url: "357b32c2933bebcd6502cbf406f7df996c8e46e7c6cbfefc5dcdc2fbf5bb54bb"
+    Price: 10000
+  Kobo-Kanaeru:
+    Name: "&b可波·卡娜埃露造型"
+    Url: "ffdeb6cc3010364f6c6d30593c1588dacda43530691ed31fd37d48417704b62b"
+    Price: 10000
+  Gawr-Gura-1:
+    Name: "&b噶嗚·古拉造型 1"
+    Url: "13b08f083df8306fa86817dd08dfa024377b80e92c0800e91f292c2aba44ad3e"
+    Price: 10000
+  Gawr-Gura-2:
+    Name: "&b噶嗚·古拉造型 2"
+    Url: "6772cc2074623dad0bcad543e90848d78affe6b61b22d7b6d7e7b9ccf0e484ec"
+    Price: 10000
+  Smol-Gura:
+    Name: "&b小古拉造型 2"
+    Url: "b97fcb8197523b298cc6ed005a9654daa6f3d1879436e78c59d4f3c1ef75e62f"
+    Price: 10000
+  Dino-Gura:
+    Name: "&b恐龍古拉造型"
+    Url: "2977e6273b95dad55c1d2aefd7e3b59447334af9410d9cbe983665ee667e0317"
+    Price: 10000
+  Fried-Shrimp-Gura:
+    Name: "&b炸蝦古拉造型"
+    Url: "2792b51c24e84d72dac8fdbeea0e71b644e45d0b0e87d391c52beda2c496566d"
+    Price: 10000
+  Moomo:
+    Name: "&bMoomo造型"
+    Url: "f6c13288690cc0e0690d3fd5416d80632b94e2d3fd12ce816e3f2f3e4d4abaa"
+    Price: 10000
+  Pororo:
+    Name: "&bPororo造型"
+    Url: "3e81c9c209f9c29380fd07e25dda8e789dba6c60f6a17543153c4833ae194159"
+    Price: 10000

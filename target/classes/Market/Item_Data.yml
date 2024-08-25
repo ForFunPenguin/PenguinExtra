@@ -1,0 +1,56 @@
+Combat:
+  Name: "&a掉落物"
+  Glass_Color: Red
+  Slot: 21
+  Material: ROTTEN_FLESH
+  Items:
+    String:
+      Price: 10
+      Init_Amount: 10000
+      Median: 1000
+Wood:
+  Name: "&a原木"
+  Glass_Color: Brown
+  Slot: 20
+  Material: OAK_LOG
+  Items:
+    OAK_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    SPRUCE_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    BIRCH_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    JUNGLE_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    ACACIA_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    CHERRY_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    DARK_OAK_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    MANGROVE_LOG:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    CRIMSON_STEM:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000
+    WARPED_STEM:
+      Price: 16
+      Init_Amount: 10000
+      Median: 1000

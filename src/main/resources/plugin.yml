@@ -1,0 +1,15 @@
+name: PenguinExtra
+version: '${project.version}'
+main: me.forfunpenguin.penguinextra.PenguinExtra
+api-version: 1.20
+depend:
+  - BetterEconomy
+commands:
+  fastmenu:
+    aliases:
+      - fm
+    description: 開啟快速選單
+  giveitem:
+    description: 給予自訂物品
+  reload:
+    description: 重新載入
